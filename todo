@@ -1,0 +1,23 @@
+DB
+1. create tables in db DONE
+Cases: id, name, user, date, documents, lawyer, status (Open/Close). 
+chat:  id, user,lawyer, datetime, message.
+
+Case
+1. Create cases, 
+    by users.  (Add cases DONE, my cases. )
+        lawyers can 
+            select them. search them, see them. 
+            
+    Case homepage: details of case
+    
+
+2. User
+        search lawyers          DONE
+            see Lawyer profile. 
+            chat with him. 
+            
+3. Chat
+        User -> Lawyer. 
+        id, user,lawyer, datetime, message.
+        
